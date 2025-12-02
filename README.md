@@ -97,6 +97,7 @@
 | **Build Tool**   | Next.js Built-in           | Optimized bundling & compilation     |
 
 ---
+
 ## Project Structure
 
 ```
@@ -304,14 +305,14 @@ TTI  ━━━━━━━━━━━━━━━━━━━━━━━━━
 -   **Live:** [bnramadan.com](https://bnramadan.com/en)
 -   **Source:** [GitHub](https://github.com/BnRamadan/bn-p16-My-Portfolio)
 -   **Tech Stack:**
-[![Next.js](https://img.shields.io/badge/Next.js-15.2-black?logo=next.js)](https://nextjs.org)
-[![React](https://img.shields.io/badge/React-19_RC-61DAFB?logo=react)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.3-3178C6?logo=typescript)](https://www.typescriptlang.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38BDF8?logo=tailwind-css)](https://tailwindcss.com)
-[![GSAP](https://img.shields.io/badge/GSAP-3.12-00D084?logo=greensock)](https://gsap.com)
-[![Three.js](https://img.shields.io/badge/Three.js_CDN-0.147-000000?logo=three.js)](https://threejs.org)
-[![i18n](https://img.shields.io/badge/i18n-react--i18next-26A69A?logo=i18next)](https://react.i18next.com)
-[![Lucide](https://img.shields.io/badge/Lucide_React-0.460-000000?logo=lucide)](https://lucide.dev)
+    [![Next.js](https://img.shields.io/badge/Next.js-15.2-black?logo=next.js)](https://nextjs.org)
+    [![React](https://img.shields.io/badge/React-19_RC-61DAFB?logo=react)](https://react.dev)
+    [![TypeScript](https://img.shields.io/badge/TypeScript-5.3-3178C6?logo=typescript)](https://www.typescriptlang.org)
+    [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38BDF8?logo=tailwind-css)](https://tailwindcss.com)
+    [![GSAP](https://img.shields.io/badge/GSAP-3.12-00D084?logo=greensock)](https://gsap.com)
+    [![Three.js](https://img.shields.io/badge/Three.js_CDN-0.147-000000?logo=three.js)](https://threejs.org)
+    [![i18n](https://img.shields.io/badge/i18n-react--i18next-26A69A?logo=i18next)](https://react.i18next.com)
+    [![Lucide](https://img.shields.io/badge/Lucide_React-0.460-000000?logo=lucide)](https://lucide.dev)
 
 -   **Features:** Modern, animated, high-performance personal portfolio available in +17 languages.
 
@@ -394,7 +395,6 @@ _Each project includes live demo, source code, video preview, and interactive te
 
 ---
 
-
 ## License
 
 [MIT License](LICENSE) – Free to use, modify, and learn from.
@@ -410,7 +410,7 @@ Full-Stack Developer | Animation Enthusiast | Open Source Lover
 -   **GitHub:** [@BnRamadan](https://github.com/BnRamadan)
 -   **Email:** [contact@bnramadan.com](mailto:contact@bnramadan.com)
 -   **WhatsApp:** [+20 102 598 0987](https://wa.me/+201025980987)
-<!-- -    **LinkedIn:** [in/mohamed-bn-ramadan](https://www.linkedin.com/in/mohamed-bn-ramadan-864381159) -->
+-   **LinkedIn:** [@BnRamadan](https://www.linkedin.com/in/bnramadan/)
 
 ---
 
@@ -420,7 +420,7 @@ For questions, suggestions, or collaboration opportunities:
 
 -   **Email:** contact@bnramadan.com
 -   **WhatsApp:** [+20 102 598 0987](https://wa.me/+201025980987)
-
+-   **LinkedIn:** [@BnRamadan](https://www.linkedin.com/in/bnramadan/)
 ---
 
 ## Project Info
